@@ -1,12 +1,12 @@
-#🔥 Tindev - O Tinder dos desenvolvedores
+# 🔥 Tindev - O Tinder dos desenvolvedores
 
-##🚀 Technologies
+## 🚀 Technologies
 * Node.js
 * React.js
 * React Native
 
-###ℹ How to install and use
->To clone and run this application, you'll need Git, Node.js v10.16 or higher + Yarn v1.13 or higher installed on your computer. From your command line:
+### ℹ How to install and use
+> To clone and run this application, you'll need Git, Node.js v10.16 or higher + Yarn v1.13 or higher installed on your computer. From your command line:
 
     # Clone this repository
     $ git clone https://github.com/VictorhMalheiro/OmniStack8.git
